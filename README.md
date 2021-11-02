@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+![GitHub metrics](https://metrics.lecoq.io/viiprogrammer) 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)  [![viiprogrammer's github stats](https://github-readme-stats.vercel.app/api?username=viiprogrammer&show_icons=true&theme=dark)](https://github.com/viiprogrammer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![viiprogrammer's github stats](https://github-readme-stats.vercel.app/api?username=viiprogrammer&show_icons=true&theme=dark)](https://github.com/viiprogrammer/github-readme-stats)
+ 
 
 ## Skills 
   **![](https://img.shields.io/badge/JavaScript-6%20Years-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)**

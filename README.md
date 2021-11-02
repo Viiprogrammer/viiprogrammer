@@ -1,5 +1,3 @@
-<a href="https://t.me/ExposedCat">![](https://img.shields.io/badge/Telegram-ExposedCat-informational?style=flat&logo=telegram&logoColor=26A5E4&color=26A5E4)</a>
-
 ### Hi there 👋
 
 

@@ -38,4 +38,4 @@
 ## Contact
   
 <a href="https://t.me/AniCoder">![](https://img.shields.io/badge/Telegram-AniCoder-informational?style=flat&logo=telegram&logoColor=26A5E4&color=26A5E4)</a>
-<a href="mailto:m_telega@mail.ru">![](https://img.shields.io/badge/Email-m_telega@mail.ru-informational?style=flat&logo=m_telega@mail.ru&logoColor=26A5E4&color=26A5E4)</a>
+<a href="mailto:m_telega@mail.ru">![](https://img.shields.io/badge/Email-m_telega@mail.ru-informational?style=flat&logo=gmail&logoColor=26A5E4&color=26A5E4)</a>

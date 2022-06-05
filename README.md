@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/Viiprogrammer/Viiprogrammer/main/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/Viiprogrammer/Viiprogrammer/main/wave.gif" height="30px" width="30px">
 ![GitHub metrics](https://metrics.lecoq.io/viiprogrammer) 
 
 | <a href="https://github.com/viiprogrammer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=viiprogrammer&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/viiprogrammer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viiprogrammer&layout=compact&hide_border=true&theme=dark" /></a> |

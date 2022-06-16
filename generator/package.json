@@ -1,0 +1,12 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "author": {
+    "email": "m_telega@mail.ru",
+    "name": "Maxim",
+    "url": "https://github.com/viiprogrammer"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}

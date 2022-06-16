@@ -1,0 +1,208 @@
+{
+  "github": {
+    "rawUrl": "https://raw.githubusercontent.com",
+    "username": "Viiprogrammer"
+  },
+  "shieldIOUrl": "https://img.shields.io/badge/",
+  "technologiesAndTools": [
+    {
+      "prefix": "OS",
+      "title": "Linux",
+      "params": {
+        "logo": "linux",
+        "color": "#2bbc8a"
+      }
+    },
+    {
+      "prefix": "Editor",
+      "title": "IntelliJ IDEA",
+      "params": {
+        "logo": "intellij-idea",
+        "color": "#2bbc8a"
+      }
+    },
+    {
+      "prefix": "Shell",
+      "title": "Bash",
+      "params": {
+        "logo": "gnu-bash",
+        "color": "#2bbc8a"
+      }
+    },
+    {
+      "prefix": "Tools",
+      "title": "Docker",
+      "params": {
+        "logo": "docker",
+        "color": "#2bbc8a"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "prefix": "JavaScript",
+      "title": "6 Years",
+      "params": {
+        "logo": "javascript",
+        "logoColor": "#F7DF1E",
+        "color": "#2bbc8a"
+      }
+    },
+    {
+      "prefix": "PHP",
+      "title": "4 Year",
+      "params": {
+        "logo": "php",
+        "logoColor": "#767ab5",
+        "color": "#767ab5"
+      }
+    },
+    {
+      "prefix": "Node.JS",
+      "title": "5 Years",
+      "params": {
+        "logo": "node.js",
+        "logoColor": "#339933",
+        "color": "#339933"
+      }
+    },
+    {
+      "prefix": "NPM",
+      "title": "4 Years",
+      "params": {
+        "logo": "npm",
+        "logoColor": "#FFFFFF",
+        "color": "#C21325"
+      }
+    },
+    {
+      "prefix": "MongoDB",
+      "title": "2 Years",
+      "params": {
+        "logo": "mongodb",
+        "logoColor": "#47A248",
+        "color": "#47A248"
+      }
+    },
+    {
+      "prefix": "MYSQL",
+      "title": "4 Year",
+      "params": {
+        "logo": "mysql",
+        "logoColor": "#61DAFB",
+        "color": "#47848F"
+      }
+    },
+    {
+      "prefix": "Vue.JS",
+      "title": "2 Month",
+      "params": {
+        "logo": "mongodb",
+        "logoColor": "#47A248",
+        "color": "#47A248"
+      }
+    },
+    {
+      "prefix": "Mongoose.JS",
+      "title": "1.5 Year",
+      "params": {
+        "logo": "javascript",
+        "logoColor": "#F7DF1E",
+        "color": "#C21325"
+      }
+    },
+    {
+      "prefix": "Electron",
+      "title": "1.5 Year",
+      "params": {
+        "logo": "electron",
+        "logoColor": "#61DAFB",
+        "color": "#47848F"
+      }
+    },
+    {
+      "prefix": "Puppeteer",
+      "title": "3 Year",
+      "params": {
+        "logo": "puppeteer",
+        "logoColor": "#FFFFFF",
+        "color": "#47848F"
+      }
+    },
+    {
+      "prefix": "Linux",
+      "title": "5 Year",
+      "params": {
+        "logo": "linux",
+        "logoColor": "#131313",
+        "color": "#131313"
+      }
+    },
+    {
+      "prefix": "GIT",
+      "title": "5 Year",
+      "params": {
+        "logo": "git",
+        "logoColor": "#ff9537",
+        "color": "#ff9537"
+      }
+    },
+    {
+      "prefix": "NGINX",
+      "title": "5 Year",
+      "params": {
+        "logo": "nginx",
+        "logoColor": "#339933",
+        "color": "#339933"
+      }
+    },
+    {
+      "prefix": "Apache",
+      "title": "4 Year",
+      "params": {
+        "logo": "apache",
+        "logoColor": "#d02700",
+        "color": "#d02700"
+      }
+    },
+    {
+      "prefix": "Redis",
+      "title": "1.5 Year",
+      "params": {
+        "logo": "redis",
+        "logoColor": "#C21325",
+        "color": "#C21325"
+      }
+    },
+    {
+      "prefix": "Memcache",
+      "title": "4 Year",
+      "params": {
+        "logo": "memcache",
+        "logoColor": "#2b887d",
+        "color": "#2b887d"
+      }
+    }
+  ],
+  "contact": [
+    {
+      "prefix": "Telegram",
+      "title": "AniCoder",
+      "params": {
+        "logo": "telegram",
+        "logoColor": "#26A5E4",
+        "url": "https://t.me/AniCoder"
+      }
+    },
+    {
+      "prefix": "Email",
+      "title": "m_telega@mail.ru",
+      "params": {
+        "url": "mailto:m_telega@mail.ru",
+        "logo": "gmail",
+        "logoColor": "#26A5E4",
+        "color": "#26A5E4"
+      }
+    }
+  ]
+}

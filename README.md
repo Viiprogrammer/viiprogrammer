@@ -1,41 +1,33 @@
 ### Hi there <img src="https://raw.githubusercontent.com/Viiprogrammer/Viiprogrammer/main/wave.gif" height="30px" width="30px">
-![GitHub metrics](https://metrics.lecoq.io/viiprogrammer) 
+![GitHub metrics](https://metrics.lecoq.io/Viiprogrammer)
 
-| <a href="https://github.com/viiprogrammer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=viiprogrammer&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/viiprogrammer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viiprogrammer&layout=compact&hide_border=true&theme=dark" /></a> |
+| <a href="https://github.com/Viiprogrammer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Viiprogrammer&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/Viiprogrammer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viiprogrammer&layout=compact&hide_border=true&theme=dark" /></a> |
 | ------------- | ------------- |
- 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?logo=linux&color=%232bbc8a&style=flat&logoColor=white)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?logo=intellij-idea&color=%232bbc8a&style=flat&logoColor=white)
+![](https://img.shields.io/badge/Shell-Bash-informational?logo=gnu-bash&color=%232bbc8a&style=flat&logoColor=white)
+![](https://img.shields.io/badge/Tools-Docker-informational?logo=docker&color=%232bbc8a&style=flat&logoColor=white)
 
-## Skills 
-  ![](https://img.shields.io/badge/JavaScript-6%20Years-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)
-  ![](https://img.shields.io/badge/PHP-4%20Year-informational?style=flat&logo=php&logoColor=767ab5&color=767ab5)
-  ![](https://img.shields.io/badge/Node.JS-5%20Years-informational?style=flat&logo=node.js&logoColor=339933&color=339933)
-  ![](https://img.shields.io/badge/NPM-4%20Years-informational?style=flat&logo=npm&logoColor=white&color=C21325)
-  
-  **![](https://img.shields.io/badge/MongoDB-2%20Year-informational?style=flat&logo=mongodb&logoColor=47A248&color=47A248)**
-  **![](https://img.shields.io/badge/MYSQL-4%20Year-informational?style=flat&logo=MySQL&logoColor=61DAFB&color=47848F)**  
-  
-  
-  **![](https://img.shields.io/badge/Vue.JS-2%20Month-informational?style=flat&logo=vue.js&logoColor=47A248&color=47A248)**
-  ![](https://img.shields.io/badge/Mongoose.JS-1.5%20Year-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=C21325)
-  ![](https://img.shields.io/badge/Electron-1.5%20Year-informational?style=flat&logo=electron&logoColor=61DAFB&color=47848F)
-  ![](https://img.shields.io/badge/Puppeteer-3%20Year-informational?style=flat&logo=puppeteer&logoColor=FFF&color=47848F)
-   
-  ![](https://img.shields.io/badge/Linux-5%20Year-informational?style=flat&logo=linux&logoColor=131313&color=131313)
-  ![](https://img.shields.io/badge/GIT-4%20Year-informational?style=flat&logo=git&logoColor=ff9537&color=ff9537)
- 
-  **![](https://img.shields.io/badge/NGINX-5%20Year-informational?style=flat&logo=nginx&logoColor=339933&color=339933)
-  ![](https://img.shields.io/badge/Apache-4%20Year-informational?style=flat&logo=apache&logoColor=d02700&color=d02700)**
-  
-  **![](https://img.shields.io/badge/Redis-1.5%20Year-informational?style=flat&logo=redis&logoColor=C21325&color=C21325)
-  ![](https://img.shields.io/badge/Memcache-4%20Year-informational?style=flat&logo=memcache&logoColor=2b887d&color=2b887d)**
-  
+## Skills
+![](https://img.shields.io/badge/JavaScript-6_Years-informational?logo=javascript&logoColor=%23F7DF1E&color=%232bbc8a&style=flat)
+![](https://img.shields.io/badge/PHP-4_Year-informational?logo=php&logoColor=%23767ab5&color=%23767ab5&style=flat)
+![](https://img.shields.io/badge/Node.JS-5_Years-informational?logo=node.js&logoColor=%23339933&color=%23339933&style=flat)
+![](https://img.shields.io/badge/NPM-4_Years-informational?logo=npm&logoColor=%23FFFFFF&color=%23C21325&style=flat)
+![](https://img.shields.io/badge/MongoDB-2_Years-informational?logo=mongodb&logoColor=%2347A248&color=%2347A248&style=flat)
+![](https://img.shields.io/badge/MYSQL-4_Year-informational?logo=mysql&logoColor=%2361DAFB&color=%2347848F&style=flat)
+![](https://img.shields.io/badge/Vue.JS-2_Month-informational?logo=mongodb&logoColor=%2347A248&color=%2347A248&style=flat)
+![](https://img.shields.io/badge/Mongoose.JS-1.5_Year-informational?logo=javascript&logoColor=%23F7DF1E&color=%23C21325&style=flat)
+![](https://img.shields.io/badge/Electron-1.5_Year-informational?logo=electron&logoColor=%2361DAFB&color=%2347848F&style=flat)
+![](https://img.shields.io/badge/Puppeteer-3_Year-informational?logo=puppeteer&logoColor=%23FFFFFF&color=%2347848F&style=flat)
+![](https://img.shields.io/badge/Linux-5_Year-informational?logo=linux&logoColor=%23131313&color=%23131313&style=flat)
+![](https://img.shields.io/badge/GIT-5_Year-informational?logo=git&logoColor=%23ff9537&color=%23ff9537&style=flat)
+![](https://img.shields.io/badge/NGINX-5_Year-informational?logo=nginx&logoColor=%23339933&color=%23339933&style=flat)
+![](https://img.shields.io/badge/Apache-4_Year-informational?logo=apache&logoColor=%23d02700&color=%23d02700&style=flat)
+![](https://img.shields.io/badge/Redis-1.5_Year-informational?logo=redis&logoColor=%23C21325&color=%23C21325&style=flat)
+![](https://img.shields.io/badge/Memcache-4_Year-informational?logo=memcache&logoColor=%232b887d&color=%232b887d&style=flat)
+
 ## Contact
-  
-<a href="https://t.me/AniCoder">![](https://img.shields.io/badge/Telegram-AniCoder-informational?style=flat&logo=telegram&logoColor=26A5E4&color=26A5E4)</a>
-<a href="mailto:m_telega@mail.ru">![](https://img.shields.io/badge/Email-m_telega@mail.ru-informational?style=flat&logo=gmail&logoColor=26A5E4&color=26A5E4)</a>
+<a href="https://t.me/AniCoder">![](https://img.shields.io/badge/Telegram-AniCoder-informational?logo=telegram&logoColor=%2326A5E4&style=flat)</a>
+<a href="mailto:m_telega@mail.ru">![](https://img.shields.io/badge/Email-m_telega@mail.ru-informational?logo=gmail&logoColor=%2326A5E4&color=%2326A5E4&style=flat)</a>

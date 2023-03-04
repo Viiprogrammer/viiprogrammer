@@ -3,6 +3,14 @@
 
 | <a href="https://github.com/Viiprogrammer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Viiprogrammer&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/Viiprogrammer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viiprogrammer&layout=compact&hide_border=true&theme=dark" /></a> |
 | ------------- | ------------- |
+| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=viiprogrammer&theme=dark&hide_border=true&layout=compact&langs_count=10" /> | |
+
+### Pinned projects:
+| [![Opengram](https://github-readme-stats.vercel.app/api/pin/?username=opengramjs&repo=opengram&show_owner=false&theme=dark&hide_border=true)](https://github.com/opengramjs/Opengram) | [![getSMS](https://github-readme-stats.vercel.app/api/pin/?username=viiprogrammer&repo=getSMS&show_owner=false&theme=dark&hide_border=true)](https://github.com/viiprogrammer/getSMS) |
+| ------------- | ------------- |
+| [![telegraf-bot-template](https://github-readme-stats.vercel.app/api/pin/?username=viiprogrammer&repo=telegraf-bot-template&show_owner=false&theme=dark&hide_border=true)](https://github.com/viiprogrammer/telegraf-bot-template) | [![AVR-SineGenerator](https://github-readme-stats.vercel.app/api/pin/?username=viiprogrammer&repo=AVR-SineGenerator&show_owner=false&theme=dark&hide_border=true)](https://github.com/viiprogrammer/AVR-SineGenerator) |
+| [![telegraf-referral-system](https://github-readme-stats.vercel.app/api/pin/?username=viiprogrammer&repo=electron-forge-vue3&show_owner=false&theme=dark&hide_border=true)](https://github.com/viiprogrammer/Viiprogrammer/electron-forge-vue3) | [![telegraf-referral-system](https://github-readme-stats.vercel.app/api/pin/?username=viiprogrammer&repo=telegraf-referral-system&show_owner=false&theme=dark&hide_border=true)](https://github.com/Viiprogrammer/telegraf-referral-system) |
+| [![sakura](https://github-readme-stats.vercel.app/api/pin/?username=animehaze&repo=sakura&show_owner=false&theme=dark&hide_border=true)](https://github.com/viiprogrammer/animehaze/sakura) | [![MDNBot](https://github-readme-stats.vercel.app/api/pin/?username=viiprogrammer&repo=MDNBot&show_owner=false&theme=dark&hide_border=true)](https://github.com/Viiprogrammer/MDNBot) |
 
 ## 🔧 Technologies & Tools
  ![](https://img.shields.io/badge/OS-Linux-informational?logo=linux&amp;color=%232bbc8a&amp;style=flat&amp;logoColor=white)  ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?logo=intellij-idea&amp;color=%232bbc8a&amp;style=flat&amp;logoColor=white)  ![](https://img.shields.io/badge/Shell-Bash-informational?logo=gnu-bash&amp;color=%232bbc8a&amp;style=flat&amp;logoColor=white)  ![](https://img.shields.io/badge/Tools-Docker-informational?logo=docker&amp;color=%232bbc8a&amp;style=flat&amp;logoColor=white) 

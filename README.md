@@ -3,7 +3,7 @@
 
 | <a href="https://github.com/Viiprogrammer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Viiprogrammer&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a> | <a href="https://github.com/Viiprogrammer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viiprogrammer&layout=compact&hide_border=true&theme=dark" /></a> |
 | ------------- | ------------- |
-| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=viiprogrammer&theme=dark&hide_border=true&layout=compact&langs_count=10" /> | |
+| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=viiprogrammer&theme=dark&hide_border=true&layout=compact&langs_count=10&range=all_time" /> | |
 
 ### Pinned projects:
 | [![Opengram](https://github-readme-stats.vercel.app/api/pin/?username=opengramjs&repo=opengram&show_owner=false&theme=dark&hide_border=true)](https://github.com/opengramjs/Opengram) | [![getSMS](https://github-readme-stats.vercel.app/api/pin/?username=viiprogrammer&repo=getSMS&show_owner=false&theme=dark&hide_border=true)](https://github.com/viiprogrammer/getSMS) |
